@@ -19,19 +19,19 @@ Je travaille surtout en équipe mon profil regroupe mes projets.
 ### [Pokédex / TCG SPA](https://github.com/protvalentine/pokedex_SPA)
 Application web monopage pour un jeu de cartes Pokémon en ligne. Le front communique avec une API REST et un serveur Socket.io : création de compte, gestion de decks de 10 cartes, matchmaking et parties en temps réel entre deux joueurs.
 
-Vue 3, TypeScript, Vite, Naive UI, Socket.io, Docker, Vercel
+**Technologies :** Vue 3, TypeScript, Vite, Naive UI, Socket.io, Docker, Vercel
 
 
 ### [Jeu du pendu client-serveur](https://github.com/protvalentine/JeuxPendu-Client-Serveur-)
 Projet d'équipe (4 personnes) pour apprendre la programmation réseau. Le jeu est écrit en C avec des sockets TCP/IP et évolue sur cinq versions : un joueur contre le serveur, deux joueurs en alternance, serveur simple relais, plusieurs parties simultanées, puis connexion directe entre les joueurs.
 
-C, sockets TCP/IP, architecture client-serveur
+**Technologies :**C, sockets TCP/IP, architecture client-serveur
 
 
 ### [Doc2Quiz](https://github.com/protvalentine/11_Doc2Quiz)
 Outil destiné aux enseignants, qui transforme un support de cours en questionnaire d'auto-évaluation. Les documents sont extraits et découpés, puis un modèle de langage hébergé via Ollama génère les questions. Interface Gradio, comptes utilisateurs et base PostgreSQL.
 
-Python, Gradio, Ollama, PostgreSQL, Docker, pytest
+**Technologies :**Python, Gradio, Ollama, PostgreSQL, Docker, pytest
 
 
 ## Contact
